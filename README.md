@@ -156,10 +156,6 @@ Now that everything is set-up, you can run the server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Team Members
-
-* [Rahul Sabinkar](https://github.com/RahulSabinkar)
-* [Sai Manikanta Teja](https://github.com/SaiManikantaTeja)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
